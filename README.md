@@ -1,4 +1,4 @@
-### Current Project: https://junhuang-ho.github.io/Ride-landing-page/
+### Current Project: http://rideprotocol.com/
 ##### Main repository for this project, Ride, is currently private. Check in later for updates.
 
 - 👋 Hi, I’m @junhuang-ho
