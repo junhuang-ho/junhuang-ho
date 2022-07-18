@@ -1,5 +1,3 @@
-### Current Project: http://rideprotocol.com/
-##### Main repository for this project, Ride, is currently private. Check in later for updates.
 
 - 👋 Hi, I’m @junhuang-ho
 - 👀 I’m interested in Machine Learning and Blockchain
